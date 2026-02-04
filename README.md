@@ -6,9 +6,17 @@ Currently building AI-powered web platforms and scalable backend systems.
 🌐 **Portfolio:** https://radih.dev
 📫 **Email:** radihjrprgs@email.com
 
+## Currently
+
+- Taking my Master of Information Technology at Central Queensland University (CQU) Brisbane Campus Majoring in Cybersecurity.
+
 ## Open for Work
 
 I am actively seeking new opportunities in software development. If you have a project or position that aligns with my skills, please feel free to reach out!
+
+## Let's Connect!
+
+- [LinkedIn](https://www.linkedin.com/in/radih-jr-paraguas-b1a468154/)
 
 ## Skills & Technologies
 
@@ -17,10 +25,6 @@ I am actively seeking new opportunities in software development. If you have a p
 - **Databases:** PostgreSQL, MongoDB, MySQL
 - **DevOps:** Docker, AWS, CI/CD, Vercel
 - **AI:** Langchain, OpenAI API
-
-## Let's Connect!
-
-- [LinkedIn](https://www.linkedin.com/in/radih-jr-paraguas-b1a468154/)
 
 ## Experience
 
