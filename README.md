@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Radih
 
-Full-stack Software Engineer | Python, FastAPI, React, Next.js  
+Full-stack Software Engineer
 Currently building AI-powered web platforms and scalable backend systems.
 
 🌐 **Portfolio:** https://radih.dev
@@ -86,3 +86,8 @@ Key projects:
 
 - Sharpen (PWA health app)
 - OFWWatch (iOS social app for Overseas Filipino Workers)
+
+## Education
+
+- Master of Information Technology, Central Queensland University (CQU), Brisbane Campus, March 2025 - November 2026 (Expected)
+- Bachelor of Science in Computer Science, STI College Gensan, June 2013 - April 2017
