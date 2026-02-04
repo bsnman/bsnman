@@ -25,10 +25,12 @@ I am actively seeking new opportunities in software development. If you have a p
 
 ## Experience
 
-### Software Engineer - Construction Technology Institute (CTI), Mar 2025 - Present
+### Software Engineer - Construction Technology Institute (CTI), Mar 2025 - January 2026
 
-Tech stack: Next.js, React, Python (FastAPI), PostgreSQL, Celery + Redis, LangChain, Anthropic API, Heroku, Vercel, Supabase, GitHub, GitHub Actions.  
-Develop and maintain full-stack web apps for an AI-driven incentives intelligence platform. Build REST and vector-based APIs, design SSR UI with filtering/pagination, and run background pipelines with Celery/Redis.  
+Tech stack: Next.js, React, Python (FastAPI), PostgreSQL, Celery + Redis, LangChain, Anthropic API, Heroku, Vercel, Supabase, GitHub, GitHub Actions.
+
+Develop and maintain full-stack web apps for an AI-driven incentives intelligence platform. Build REST and vector-based APIs, design SSR UI with filtering/pagination, and run background pipelines with Celery/Redis.
+
 Key achievements: reduced duplicate content by 40%+ using AI deduplication; doubled background job throughput via Celery/Redis tuning.
 
 ### Software Engineer - Emapta Versatile Services Inc., Jun 2021 - Jun 2024
