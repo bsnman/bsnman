@@ -5,7 +5,7 @@ Currently building AI-powered web platforms and scalable backend systems.
 
 🌐 **Portfolio:** https://radih.dev  
 📄 **Resume:** PDF link  
-📫 **Email:** your@email.com
+📫 **Email:** radihjrprgs@email.com
 
 <!--
 **bsnman/bsnman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
