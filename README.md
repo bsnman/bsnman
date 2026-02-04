@@ -3,8 +3,8 @@
 Full-stack Software Engineer
 Currently building AI-powered web platforms and scalable backend systems.
 
-🌐 **Portfolio:** https://radih.dev
-📫 **Email:** radihjrprgs@email.com
+- 🌐 **Portfolio:** https://radih.dev
+- 📫 **Email:** radihjrprgs@email.com
 
 ## Currently
 
